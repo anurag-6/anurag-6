@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anurag-6
 - 👀 I’m interested in  Web Technologies
-- 🌱 I’m currently learning django and flask 
-- 📫 How to reach me anuragr8129@gmail.com
+- 🌱 Python Developer
+- 📫 Angular Developer
 
 <!---
 anurag-6/anurag-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
