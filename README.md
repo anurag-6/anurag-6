@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @anurag-6
-- 👀 I’m interested in  Web Technologies
 - 🌱 Python Developer
 - 📫 Angular Developer
 
